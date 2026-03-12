@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Juber
 
-<!--
-**IverNando/IverNando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full-Stack enfocado en construir aplicaciones web modernas.
 
-Here are some ideas to get you started:
+Trabajo principalmente con **React y Python**, desarrollando APIs, conectando frontend y backend, y construyendo proyectos completos de principio a fin.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías
+
+Frontend
+- React
+- JavaScript
+- HTML
+- CSS
+
+Backend
+- Python
+- Flask
+- REST APIs
+
+Base de datos
+- SQL
+- PostgreSQL
+
+Herramientas
+- Git
+- GitHub
+
+---
+
+## 🧠 Actualmente aprendiendo
+
+- Arquitectura backend
+- Diseño de APIs
+- Escalabilidad en aplicaciones web
+
+---
+
+## 📌 Proyectos destacados
+
+🔹 Aplicación Full-Stack con autenticación JWT  
+🔹 API REST para gestión de datos  
+🔹 Integración con APIs externas
+
+---
+
+## 📫 Contacto
+
+LinkedIn: https://www.linkedin.com/in/hubert-antoine-carrasset-5aa1142b3/
